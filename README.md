@@ -1,10 +1,10 @@
-# Sitema de Controle de Estacionamento
+# Capture The Flag Wyden
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
 <h1 align = "center">
 <br>
-  <img src="https://i.imgur.com/LeRHxlQ.png" alt="PARKING MANAUS" width="320">
+  <img src="https://i.imgur.com/LeRHxlQ.png" alt="CTF" width="320">
 <br>
 <br>
 CTF Wyden
