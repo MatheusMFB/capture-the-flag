@@ -4,13 +4,13 @@
 
 <h1 align = "center">
 <br>
-  <img src="https://i.imgur.com/novZFIL.png" alt="PARKING MANAUS" width="320">
+  <img src="https://i.imgur.com/LeRHxlQ.png" alt="PARKING MANAUS" width="320">
 <br>
 <br>
-PARKING MANAUS
+CTF Wyden
 </h1>
 
-<p align = "center"> Sistema de Controle de Estacionamento feito como trabalho final do curso de Programação WEB pela FPF Tech, usando as tecnologias HTML, CSS, PHP, Javascript, Bootstrap. </p>
+<p align = "center"> Capture the Flag, com sistema de login e senha, validação de flags, painel de admin, desafios e banco de dados. </p>
 
 <p align = "center">
   <a href="https://opensource.org/licenses/MIT">
