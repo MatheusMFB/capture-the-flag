@@ -20,7 +20,7 @@ CTF Wyden
 
 [//]: # (adicione seus gifs / imagens aqui :)
 <div>
-  <img src = "https://i.imgur.com/zRWpMnS.gif" alt = "demo" height = "585">
+  <img src = "https://i.imgur.com/wTTy4yI.gif" alt = "demo" height = "585">
 </div>
 
 <hr />
